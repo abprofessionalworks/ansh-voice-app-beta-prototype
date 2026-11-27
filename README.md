@@ -17,7 +17,7 @@ YouTube: https://youtu.be/k6WXgE7yiEY
 docker compose up --build
 ```
 
-Open http://localhost:8000.
+Open http://localhost:8000. (In case you do this: http://0.0.0.0:8000/, instead of http://localhost:8000, you may run into mic permission issues (it depends on your browser setting))
 
 Please ensure the port used above is free on your machine.
 
