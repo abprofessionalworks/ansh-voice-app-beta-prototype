@@ -4,8 +4,8 @@ A voice-first revision and doubts solving partner for Indian school students. Pi
 
 Prototype scope: CBSE, Class 10 Science, 2 chapters.
 
-## Live Link: 
-https://ansh-voice-app-beta-prototype.up.railway.app/
+## Live Link
+Given as part of the submitted form and also in the presentation PDF
 
 **Please Note:** Since I am on a free Railway plan, Railway says the deployment may not always be on. *"Services on the Free plan run serverless. A service sleeps after 5 to 10 minutes without outbound traffic and wakes on the next request."* So please try it a few times if it doesn't load, it eventually will.
 
